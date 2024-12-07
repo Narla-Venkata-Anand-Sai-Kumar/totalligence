@@ -1,6 +1,6 @@
 Still building the workspace index, response may be less accurate.
 
-# Count - Particles
+# Totalligence
 
 This project is a web page template named "Count - Particles". It includes various HTML, CSS, and JavaScript files to create a visually appealing and interactive web page with particle effects.
 
